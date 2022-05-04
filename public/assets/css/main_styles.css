@@ -851,7 +851,7 @@ top_nav_social
 {
     width: 55px;
     height: 55px;
-    min-width: 80px;
+    min-width: 25px;
     line-height: 0;
 }
 .logo_container a span
