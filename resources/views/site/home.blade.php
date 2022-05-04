@@ -66,7 +66,7 @@
             <div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
             
             @foreach($products as $product)  
-              <div class="product-item men">
+              <div class="product-item">
                 <div class="product discount product_filter">
                   <div class="product_image">
                     <img src="{{url('uploads/product_images', $product->image)}}" alt="">
