@@ -190,7 +190,7 @@
     </div>
     
     <!-- Footer -->
-    @include('layouts._header')
+    @include('layouts._footer')
     
     </div>
     
