@@ -62,7 +62,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col">
+          <div class="col-sm">
             <div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
             
             @foreach($products as $product)  
